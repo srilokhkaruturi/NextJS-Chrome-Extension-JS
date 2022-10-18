@@ -1,13 +1,13 @@
-`next-chrome` is a [Next.js](https://nextjs.org/) starter project to bootstrap a new Chrome extension.
+> Build in next-app directory
 
-[Helpful Tips for Starting a Next.js Chrome Extension | CSS-Tricks](https://css-tricks.com/nextjs-chrome-extension-starter/)
-
-```sh
-cd next-app
-
-yarn # run once
-
-yarn build # on macOS
-yarn build:linux # on Linux
+```
+yarn build
 ```
 
+> Navigate to Chrome Extensions Page
+
+```
+chrome://extensions/
+```
+
+> Load unpacked and select `extension` directory (step 1.) 
